@@ -1,6 +1,6 @@
 - Hi, I’m @BPlevier
-- I’m interested in Python, Java, C++, Machine learning, Docker, Linux
-- I’m currently learning Java
+- I’m interested in Python, JavaScript, NodeJS, Machine learning, Docker, Linux
+- I’m currently learning NodeJS, HTML and CSS
 
 
 <!---
